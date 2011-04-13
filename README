@@ -1,0 +1,11 @@
+Install:
+  sudo install pluzz /usr/local/bin
+
+Play video:
+  pluzz play http://www.pluzz.fr/jt-20h.html
+
+Record video:
+  pluzz record http://www.pluzz.fr/jt-20h.html
+
+Get stream URL:
+  pluzz url http://www.pluzz.fr/jt-20h.html
